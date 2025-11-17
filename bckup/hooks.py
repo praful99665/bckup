@@ -7,6 +7,10 @@ app_license = "mit"
 
 # Apps
 # ------------------
+fixtures = [
+    {"dt": "Employee Group"}
+]
+
 
 # required_apps = []
 
@@ -174,16 +178,20 @@ app_license = "mit"
 # Overriding Methods
 # ------------------------------
 #
-# override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "bckup.event.get_events"
-# }
+override_whitelisted_methods = {
+	# "frappe.desk.doctype.event.event.get_events": "bckup.event.get_events"
+        "erpnext.crm.doctype.lead.lead._make_customer": 
+
+        "bckup.bckup.overrides.lead.simple_make_customer"
+
+}
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
 # along with any modifications made in other Frappe apps
-# override_doctype_dashboards = {
-# 	"Task": "bckup.task.get_dashboard_data"
-# }
+override_doctype_dashboards = {
+    "Customer": "bckup.dashboard.customer_dashboard.get_data"
+}
 
 # exempt linked doctypes from being automatically cancelled
 #
