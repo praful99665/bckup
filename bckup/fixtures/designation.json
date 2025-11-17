@@ -1,0 +1,322 @@
+[
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Accountant",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.250321",
+  "name": "Accountant",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Administrative Assistant",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.253484",
+  "name": "Administrative Assistant",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Administrative Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.254813",
+  "name": "Administrative Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Analyst",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.256640",
+  "name": "Analyst",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Associate",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.258021",
+  "name": "Associate",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Business Analyst",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.259522",
+  "name": "Business Analyst",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Business Development Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.260799",
+  "name": "Business Development Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Consultant",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.262015",
+  "name": "Consultant",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Chief Executive Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.263132",
+  "name": "Chief Executive Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Chief Financial Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.264385",
+  "name": "Chief Financial Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Chief Operating Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.265650",
+  "name": "Chief Operating Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Chief Technology Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.266854",
+  "name": "Chief Technology Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Customer Service Representative",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.267991",
+  "name": "Customer Service Representative",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Designer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.269262",
+  "name": "Designer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Engineer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.270440",
+  "name": "Engineer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Executive Assistant",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.271860",
+  "name": "Executive Assistant",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Finance Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.273026",
+  "name": "Finance Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "HR Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.274225",
+  "name": "HR Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Head of Marketing and Sales",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.275652",
+  "name": "Head of Marketing and Sales",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.276976",
+  "name": "Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Managing Director",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.278208",
+  "name": "Managing Director",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Marketing Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.279310",
+  "name": "Marketing Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Marketing Specialist",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.280429",
+  "name": "Marketing Specialist",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "President",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.281530",
+  "name": "President",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Product Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.282639",
+  "name": "Product Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Project Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.283852",
+  "name": "Project Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Researcher",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.285080",
+  "name": "Researcher",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Sales Representative",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.286284",
+  "name": "Sales Representative",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Secretary",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.287529",
+  "name": "Secretary",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Software Developer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.288933",
+  "name": "Software Developer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Vice President",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-10-22 12:20:29.290161",
+  "name": "Vice President",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Worker",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-11-17 16:20:27.791924",
+  "name": "Worker",
+  "skills": []
+ }
+]
