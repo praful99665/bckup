@@ -8,8 +8,7 @@ app_license = "mit"
 # Apps
 # ------------------
 fixtures = [
-    {"dt": "Employee Group"},
-    {"dt": "Designation"}
+{"dt": "Custom Field"}
 ]
 
 
