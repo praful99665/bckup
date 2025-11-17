@@ -8,7 +8,11 @@ app_license = "mit"
 # Apps
 # ------------------
 fixtures = [
-{"dt": "Custom Field"}
+    {"dt": "Custom Field"},         # All custom fields (including Employee, Heavy Vehicle, etc.)
+    {"dt": "Custom DocPerm"},       # All custom permissions on custom doctypes
+    {"dt": "Property Setter"},       # All property changes made to standard doctypes/fields
+    {"dt": "DocType", "filters": [["name", "=", "Heavy Vehicle"]]},
+
 ]
 
 
