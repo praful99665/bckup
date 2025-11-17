@@ -13,6 +13,7 @@ fixtures = [
     {"dt": "Property Setter"},       # All property changes made to standard doctypes/fields
     {"dt": "Role", "filters": [["name", "=", "Speed Driver"]]},
     {"dt": "Role", "filters": [["name", "=", "Slow Driver"]]},
+    {"dt": "Role", "filters": [["name", "=", "Goods Driver"]]},
     {"dt": "DocType", "filters": [["name", "=", "Heavy Vehicle"]]},
     {"dt": "DocType", "filters": [["name", "=", "Vehicle Manage"]]},
     {

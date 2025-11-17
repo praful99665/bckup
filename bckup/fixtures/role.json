@@ -6,10 +6,10 @@
   "doctype": "Role",
   "home_page": null,
   "is_custom": 0,
-  "modified": "2025-11-17 17:51:02.765959",
-  "name": "Slow Driver",
+  "modified": "2025-11-17 18:04:00.248127",
+  "name": "Goods Driver",
   "restrict_to_domain": null,
-  "role_name": "Slow Driver",
+  "role_name": "Goods Driver",
   "two_factor_auth": 0
  }
 ]
