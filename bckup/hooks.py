@@ -11,7 +11,20 @@ fixtures = [
     {"dt": "Custom Field"},         # All custom fields (including Employee, Heavy Vehicle, etc.)
     {"dt": "Custom DocPerm"},       # All custom permissions on custom doctypes
     {"dt": "Property Setter"},       # All property changes made to standard doctypes/fields
+    {"dt": "Role", "filters": [["name", "=", "Speed Driver"]]},
     {"dt": "DocType", "filters": [["name", "=", "Heavy Vehicle"]]},
+    {"dt": "DocType", "filters": [["name", "=", "Vehicle Manage"]]},
+    {
+        "doctype": "Employee Group", 
+        "filters": 
+        [["name", "in", 
+        [
+            "Sales"
+            
+            
+        ]
+        ]]
+    },
 
 ]
 
