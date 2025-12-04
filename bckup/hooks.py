@@ -14,8 +14,10 @@ fixtures = [
     {"dt": "Role", "filters": [["name", "=", "Speed Driver"]]},
     {"dt": "Role", "filters": [["name", "=", "Slow Driver"]]},
     {"dt": "Role", "filters": [["name", "=", "Goods Driver"]]},
+    {"dt": "Role", "filters": [["name", "=", "Ambulance Driver"]]},
     {"dt": "DocType", "filters": [["name", "=", "Heavy Vehicle"]]},
     {"dt": "DocType", "filters": [["name", "=", "Vehicle Manage"]]},
+    
     {
         "doctype": "Employee Group", 
         "filters": 
