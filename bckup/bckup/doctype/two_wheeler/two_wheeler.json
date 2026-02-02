@@ -9,7 +9,8 @@
   "vehicle_name",
   "vehicle_number",
   "vehicle_color",
-  "najiya"
+  "najiya",
+  "najiy123"
  ],
  "fields": [
   {
@@ -33,12 +34,17 @@
    "fieldname": "najiya",
    "fieldtype": "Data",
    "label": "Najiya"
+  },
+  {
+   "fieldname": "najiy123",
+   "fieldtype": "Data",
+   "label": "Najiy123"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-02 15:10:05.230650",
+ "modified": "2026-02-02 15:37:41.420605",
  "modified_by": "Administrator",
  "module": "bckup",
  "name": "Two Wheeler",
